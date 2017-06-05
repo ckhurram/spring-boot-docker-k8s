@@ -57,4 +57,20 @@ We should see:
     
     Total time: 19.477 secs
     
+Now let's add a REST endpoint to our SpringBoot Application, we can make main class **SpringBootDockerK8sApplication** a REST Controller by adding **@RestController** annotation.  After this add a REST endpoint with some implementation as below:
 
+```java
+        @RequestMapping(value="/VERSION", method= RequestMethod.GET)
+	public String version() throws UnknownHostException {
+		String hostAddress = InetAddress.getLocalHost().getHostAddress();
+		String hostName = InetAddress.getLocalHost().getHostName();
+		return "VERSION from hostService: ".concat(hostName).concat("@ IP Address: ").concat(hostAddress);
+	}
+```
+
+Now run the app, either from IntelliJ or command prompt, and call the endpoint by using curl or anyother REST client
+
+    curl http://localhost:8080/VERSION
+    
+    VERSION from hostService: Khurrams-MacBook-Pro.local@ IP Address: 192.168.0.24
+    
