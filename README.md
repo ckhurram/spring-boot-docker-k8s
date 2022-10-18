@@ -234,4 +234,5 @@ Now we can test the **/VERSION** endpoint on minikube, type
     minikube service dock8app
   
     
+  Add more tests
     
