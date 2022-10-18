@@ -1,0 +1,7 @@
+
+Feature: As a user I want to be able to open google search engine
+
+
+
+  Scenario: Successfully open google
+    Given i have a web browser installed on the machine
