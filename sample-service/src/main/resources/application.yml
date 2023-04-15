@@ -1,0 +1,54 @@
+spring:
+ mvc:
+   pathmatch:
+     matching-strategy: ant_path_matcher
+ logging:
+  level:
+    org.springframework.web: INFO
+
+feign:
+  client:
+    config:
+      default:
+        errorDecoder: com.volvo.gox.pop.price.creation.client.FeignClientErrorDecoder
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: BASIC
+      gpeFeignClient:
+        defaultRequestHeaders:
+          apollographql-client-name: dotcom-configurator
+
+jasypt:
+  encryptor:
+    bean: encryptorBean
+
+management:
+  health:
+    livenessstate:
+      enabled: true
+    readinessstate:
+      enabled: true
+    probes:
+      enabled: true
+
+---
+spring:
+  profiles: dev
+
+client:
+  rvService:
+    baseUrl: http://localhost:8090
+  graphql:
+    baseUrl: https://graph.volvocars.com/graphql
+
+---
+spring:
+  profiles: test
+
+client:
+  rvService:
+    baseUrl: https://residual-value-api-test.ccdp.io
+  graphql:
+    baseUrl: https://graph.volvocars.com/graphql
+
+

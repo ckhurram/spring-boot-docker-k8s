@@ -1,0 +1,41 @@
+query CarsByMarket($market: String, $modelYear: String, $carType: String, $engine: String, $salesVersion: String, $body: String, $gearbox: String, $steering: String, $marketingCode: String, $priceConfigInput: PriceConfigurationInput) {
+  carsByMarket(market: $market) {
+    cars {
+      groupBy(groupType: MODEL_YEAR, filter: $modelYear) {
+        groupBy(groupType: CAR_TYPE, filter: $carType) {
+          groupBy(groupType: ENGINE, filter: $engine) {
+            groupBy(groupType: SALES_VERSION, filter: $salesVersion) {
+              groupBy(groupType: BODY, filter: $body) {
+                groupBy(groupType: GEARBOX, filter: $gearbox) {
+                  groupBy(groupType: STEERING, filter: $steering) {
+                    groupBy(
+                      groupType: MARKETING_CODE
+                      filter: $marketingCode
+                    ) {
+                      first {
+                        configuration {
+                          defaultCar {
+                            pno {
+                              pno34PlusOptions
+                            }
+                            priceSummary(priceConfigInput: $priceConfigInput) {
+                              price {
+                                amount
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+

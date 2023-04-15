@@ -1,0 +1,31 @@
+{
+  "message": "SUCCESS",
+  "vehiclePrice": {
+    "id": "256H5VC0D110-SE-2023",
+    "market": "SE",
+    "modelYear": "2023",
+    "pno12": "256H5VC0D110",
+    "description": "XC40 Core B3p FWD AT MY23",
+    "subsidy": 0.0,
+    "secondSubsidy": 0.0,
+    "duration": 0,
+    "mileage": 0,
+    "pretaxMSRP": 935000,
+    "rvPercentage": 67.0,
+    "calculatedVat": 187000,
+    "msrp": 1122000,
+    "discountedAmount": 46750,
+    "stp": 888250,
+    "tacticalDiscount": 0,
+    "tp": 888250,
+    "rvAmount": 626450,
+    "depreciation": 261800,
+    "subscription": 133,
+    "suggested": true,
+    "customerType": "B2C",
+    "salesModel": "Subscription - flex",
+    "fixedTp": 223,
+    "flexTp": 555,
+    "tpDiscount": 23
+  }
+}

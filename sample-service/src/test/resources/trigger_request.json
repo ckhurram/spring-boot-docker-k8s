@@ -1,0 +1,2449 @@
+[ {
+  "pno12" : "246L1R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 534000
+}, {
+  "pno12" : "536BWV50F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 496000
+}, {
+  "pno12" : "536BWG30F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 486000
+}, {
+  "pno12" : "236K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 448900
+}, {
+  "pno12" : "235BFG30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 625000
+}, {
+  "pno12" : "536L4130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 358000
+}, {
+  "pno12" : "536K9R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 438000
+}, {
+  "pno12" : "536K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 380000
+}, {
+  "pno12" : "246BMTR0D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 739900
+}, {
+  "pno12" : "225BFG30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 531000
+}, {
+  "pno12" : "235BFV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 635000
+}, {
+  "pno12" : "246L1170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 439900
+}, {
+  "pno12" : "234H5V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 749900
+}, {
+  "pno12" : "246L1170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 475000
+}, {
+  "pno12" : "235K5130C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 493000
+}, {
+  "pno12" : "225K6170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 372000
+}, {
+  "pno12" : "536K8170M110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 400000
+}, {
+  "pno12" : "225H1V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 541000
+}, {
+  "pno12" : "235K9130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 503000
+}, {
+  "pno12" : "246K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 445000
+}, {
+  "pno12" : "234L1130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 533000
+}, {
+  "pno12" : "227L1170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 457000
+}, {
+  "pno12" : "225K7170F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 377000
+}, {
+  "pno12" : "224H5V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 591000
+}, {
+  "pno12" : "235K5170D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 593000
+}, {
+  "pno12" : "234K2130C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 571000
+}, {
+  "pno12" : "225BTP50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 645000
+}, {
+  "pno12" : "246K5130C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 641000
+}, {
+  "pno12" : "235K5130D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 643000
+}, {
+  "pno12" : "235H1G30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 647000
+}, {
+  "pno12" : "236K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 483000
+}, {
+  "pno12" : "227K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 403900
+}, {
+  "pno12" : "224BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 571000
+}, {
+  "pno12" : "234H5G30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 675000
+}, {
+  "pno12" : "536K9120C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 387000
+}, {
+  "pno12" : "25606R70C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 739000
+}, {
+  "pno12" : "23406130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 593000
+}, {
+  "pno12" : "246H5T30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 591000
+}, {
+  "pno12" : "225L1130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 481000
+}, {
+  "pno12" : "235K2130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 553000
+}, {
+  "pno12" : "235BMG30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 573000
+}, {
+  "pno12" : "225BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 623000
+}, {
+  "pno12" : "234BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 723900
+}, {
+  "pno12" : "246BFT70D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 733900
+}, {
+  "pno12" : "536EDR60E110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 655900
+}, {
+  "pno12" : "22506130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 521000
+}, {
+  "pno12" : "536L1130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 458000
+}, {
+  "pno12" : "225K9130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 437000
+}, {
+  "pno12" : "225K5170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 374900
+}, {
+  "pno12" : "225BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 628000
+}, {
+  "pno12" : "256H5V70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 832900
+}, {
+  "pno12" : "256K2130C910",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 833900
+}, {
+  "pno12" : "246BMTR0D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 739900
+}, {
+  "pno12" : "225H5P50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 645000
+}, {
+  "pno12" : "235K5R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 513000
+}, {
+  "pno12" : "536111301110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 358000
+}, {
+  "pno12" : "234L1R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 543000
+}, {
+  "pno12" : "25606230C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 729000
+}, {
+  "pno12" : "24606R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 594000
+}, {
+  "pno12" : "246K2170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 595000
+}, {
+  "pno12" : "536K8170F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 354900
+}, {
+  "pno12" : "536K8120F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 367000
+}, {
+  "pno12" : "246K5130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 514000
+}, {
+  "pno12" : "246K5170D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 515000
+}, {
+  "pno12" : "246K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 517000
+}, {
+  "pno12" : "536L1170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 430000
+}, {
+  "pno12" : "234K2R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 563000
+}, {
+  "pno12" : "225K5170D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 569000
+}, {
+  "pno12" : "246BFTR0D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 637000
+}, {
+  "pno12" : "246K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 439900
+}, {
+  "pno12" : "536111701110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 330000
+}, {
+  "pno12" : "53615R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 388000
+}, {
+  "pno12" : "225H1G30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 531000
+}, {
+  "pno12" : "236K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 537000
+}, {
+  "pno12" : "225K6130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 411000
+}, {
+  "pno12" : "536EDR80E110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 681300
+}, {
+  "pno12" : "53611R501110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 368000
+}, {
+  "pno12" : "225K6R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 421000
+}, {
+  "pno12" : "536111201110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 317000
+}, {
+  "pno12" : "235K2170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 494000
+}, {
+  "pno12" : "225BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 623000
+}, {
+  "pno12" : "246K5170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 445000
+}, {
+  "pno12" : "536K9130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 428000
+}, {
+  "pno12" : "246BMTR0D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 733900
+}, {
+  "pno12" : "246K9130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 494000
+}, {
+  "pno12" : "225H5V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 591000
+}, {
+  "pno12" : "235L1170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 474000
+}, {
+  "pno12" : "225K5130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 439000
+}, {
+  "pno12" : "536K9130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 408000
+}, {
+  "pno12" : "536K9170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 374900
+}, {
+  "pno12" : "225K9R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 441000
+}, {
+  "pno12" : "23406R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 699900
+}, {
+  "pno12" : "246L1130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 524000
+}, {
+  "pno12" : "246K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 529000
+}, {
+  "pno12" : "246K5120D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 435000
+}, {
+  "pno12" : "246L1130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 544000
+}, {
+  "pno12" : "225K7120F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 367000
+}, {
+  "pno12" : "227K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 427000
+}, {
+  "pno12" : "246K5170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 419900
+}, {
+  "pno12" : "536K8170M110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 374900
+}, {
+  "pno12" : "53615170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 350000
+}, {
+  "pno12" : "225K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 374900
+}, {
+  "pno12" : "235H5G30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 377900
+}, {
+  "pno12" : "235L1130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 533000
+}, {
+  "pno12" : "235H1G30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 625000
+}, {
+  "pno12" : "536L4R501110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 348000
+}, {
+  "pno12" : "536K8170F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 380000
+}, {
+  "pno12" : "225BFV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 541000
+}, {
+  "pno12" : "536L4170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 330000
+}, {
+  "pno12" : "536K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 354900
+}, {
+  "pno12" : "246H1T70D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 355900
+}, {
+  "pno12" : "225BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 571000
+}, {
+  "pno12" : "23506130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 593000
+}, {
+  "pno12" : "225L1170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 442000
+}, {
+  "pno12" : "536L4110D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 304000
+}, {
+  "pno12" : "224H5G30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 581000
+}, {
+  "pno12" : "53615120D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 337000
+}, {
+  "pno12" : "246K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 465000
+}, {
+  "pno12" : "246H5P50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 772900
+}, {
+  "pno12" : "246K2130C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 773900
+}, {
+  "pno12" : "225K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 374900
+}, {
+  "pno12" : "25606B20C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 375900
+}, {
+  "pno12" : "234BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 665000
+}, {
+  "pno12" : "23606170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 553000
+}, {
+  "pno12" : "256K2R70C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 699000
+}, {
+  "pno12" : "235K5130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 503000
+}, {
+  "pno12" : "246BMT30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 505000
+}, {
+  "pno12" : "246L1170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 434900
+}, {
+  "pno12" : "227K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 435900
+}, {
+  "pno12" : "246H1TR0D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 652900
+}, {
+  "pno12" : "236K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 651900
+}, {
+  "pno12" : "246K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 653900
+}, {
+  "pno12" : "256H5H30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 822900
+}, {
+  "pno12" : "235K2170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 821900
+}, {
+  "pno12" : "246K5130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 494000
+}, {
+  "pno12" : "536L41101110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 284000
+}, {
+  "pno12" : "225K8R50F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 441000
+}, {
+  "pno12" : "235H1G70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 573000
+}, {
+  "pno12" : "235K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 575000
+}, {
+  "pno12" : "236K2170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 513000
+}, {
+  "pno12" : "246BTP50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 757000
+}, {
+  "pno12" : "235K5130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 523000
+}, {
+  "pno12" : "235K2130C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 525000
+}, {
+  "pno12" : "246K2170C910",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 527000
+}, {
+  "pno12" : "536K8130F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 408000
+}, {
+  "pno12" : "536K8R50F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 418000
+}, {
+  "pno12" : "225H1G30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 417000
+}, {
+  "pno12" : "536BWG70F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 459000
+}, {
+  "pno12" : "236K2N50C910",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 439000
+}, {
+  "pno12" : "536K9170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 400000
+}, {
+  "pno12" : "224L1R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 471000
+}, {
+  "pno12" : "536L1R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 468000
+}, {
+  "pno12" : "246K5170D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 458000
+}, {
+  "pno12" : "256K2R70C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 779000
+}, {
+  "pno12" : "536L41201110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 297000
+}, {
+  "pno12" : "246K5130D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 317000
+}, {
+  "pno12" : "536BBG30F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 516000
+}, {
+  "pno12" : "235K5170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 409900
+}, {
+  "pno12" : "246K5170D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 419900
+}, {
+  "pno12" : "246BFT70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 585000
+}, {
+  "pno12" : "235K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 583000
+}, {
+  "pno12" : "235K9R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 513000
+}, {
+  "pno12" : "246BFT30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 627000
+}, {
+  "pno12" : "246K2170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 495000
+}, {
+  "pno12" : "235BMG30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 655000
+}, {
+  "pno12" : "235L1R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 543000
+}, {
+  "pno12" : "246K9120D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 435000
+}, {
+  "pno12" : "236L1170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 513000
+}, {
+  "pno12" : "53615130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 378000
+}, {
+  "pno12" : "235BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 665000
+}, {
+  "pno12" : "24606130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 584000
+}, {
+  "pno12" : "235H5V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 749900
+}, {
+  "pno12" : "256L1R70C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 699000
+}, {
+  "pno12" : "225K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 392000
+}, {
+  "pno12" : "246H5T30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 692900
+}, {
+  "pno12" : "536EDRB0E110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 706700
+}, {
+  "pno12" : "22506R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 531000
+}, {
+  "pno12" : "536K9170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 374900
+}, {
+  "pno12" : "225BFG70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 499000
+}, {
+  "pno12" : "246H5TR0D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 773800
+}, {
+  "pno12" : "225K5170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 374900
+}, {
+  "pno12" : "536K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 354900
+}, {
+  "pno12" : "225K8130F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 411000
+}, {
+  "pno12" : "225L1R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 497000
+}, {
+  "pno12" : "256BMV70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 899000
+}, {
+  "pno12" : "227K5170C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 879000
+}, {
+  "pno12" : "224BMG30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 561000
+}, {
+  "pno12" : "235K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 429900
+}, {
+  "pno12" : "235H1V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 635000
+}, {
+  "pno12" : "256K2230C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 689000
+}, {
+  "pno12" : "224L1130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 461000
+}, {
+  "pno12" : "246L1170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 495000
+}, {
+  "pno12" : "225K8170F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 374900
+}, {
+  "pno12" : "536K8130M110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 428000
+}, {
+  "pno12" : "256L1230C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 689000
+}, {
+  "pno12" : "234K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 444000
+}, {
+  "pno12" : "246BFT30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 414000
+}, {
+  "pno12" : "536L4120D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 317000
+}, {
+  "pno12" : "225K5R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 441000
+}, {
+  "pno12" : "256H5V70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 902900
+}, {
+  "pno12" : "536EFR60K110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 535000
+}, {
+  "pno12" : "235BMV50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 717000
+}, {
+  "pno12" : "225L1130D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 461000
+}, {
+  "pno12" : "536L41701110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 310000
+}, {
+  "pno12" : "225L1R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 471000
+}, {
+  "pno12" : "225BMG30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 451000
+}, {
+  "pno12" : "246L1170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 414900
+}, {
+  "pno12" : "246K5R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 524000
+}, {
+  "pno12" : "225H5G30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 534000
+}, {
+  "pno12" : "246K2R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 554000
+}, {
+  "pno12" : "536EFR80K110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 560400
+}, {
+  "pno12" : "536L41301110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 338000
+}, {
+  "pno12" : "246K5120D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 354000
+}, {
+  "pno12" : "235K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 464000
+}, {
+  "pno12" : "256H5H30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 454000
+}, {
+  "pno12" : "539EDR80E110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 414000
+}, {
+  "pno12" : "536BBV50F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 526000
+}, {
+  "pno12" : "227K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 403900
+}, {
+  "pno12" : "246L1R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 554000
+}, {
+  "pno12" : "225H5G30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 581000
+}, {
+  "pno12" : "225BFG70D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 583000
+}, {
+  "pno12" : "235K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 409900
+}, {
+  "pno12" : "536K9120D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 367000
+}, {
+  "pno12" : "225H5V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 649900
+}, {
+  "pno12" : "23506R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 603000
+}, {
+  "pno12" : "246BMTR0D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 667000
+}, {
+  "pno12" : "235BFG70D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 665000
+}, {
+  "pno12" : "256BMH30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 819000
+}, {
+  "pno12" : "225K8170F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 392000
+}, {
+  "pno12" : "235K9170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 444000
+}, {
+  "pno12" : "246K9R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 504000
+}, {
+  "pno12" : "224L1R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 499000
+}, {
+  "pno12" : "246L1170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 419900
+}, {
+  "pno12" : "256BMH30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 439900
+}, {
+  "pno12" : "536K8R50M110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 438000
+}, {
+  "pno12" : "246K5R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 504000
+}, {
+  "pno12" : "246K5170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 414900
+}, {
+  "pno12" : "235H5V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 685000
+}, {
+  "pno12" : "225BMG30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 561000
+}, {
+  "pno12" : "225K7R50F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 426000
+}, {
+  "pno12" : "235K5170D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 427000
+}, {
+  "pno12" : "234K2130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 553000
+}, {
+  "pno12" : "246BMT30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 657000
+}, {
+  "pno12" : "235K2R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 563000
+}, {
+  "pno12" : "225K5170D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 561000
+}, {
+  "pno12" : "235BFG70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 573000
+}, {
+  "pno12" : "225H1G70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 499000
+}, {
+  "pno12" : "246H1T30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 642900
+}, {
+  "pno12" : "246H1T70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 600900
+}, {
+  "pno12" : "539EDRB0E110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 699900
+}, {
+  "pno12" : "234H5V50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 685000
+}, {
+  "pno12" : "246H1T30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 686000
+}, {
+  "pno12" : "235K5R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 533000
+}, {
+  "pno12" : "225K5170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 392000
+}, {
+  "pno12" : "246K5170C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 434900
+}, {
+  "pno12" : "224H5P50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 645000
+}, {
+  "pno12" : "235K5170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 444000
+}, {
+  "pno12" : "225BFG30D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 445000
+}, {
+  "pno12" : "246K2130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 544000
+}, {
+  "pno12" : "225K5130D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 545000
+}, {
+  "pno12" : "225K7130F110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 416000
+}, {
+  "pno12" : "224BTP50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 645000
+}, {
+  "pno12" : "224L1130C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 481000
+}, {
+  "pno12" : "225K5170D310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 482000
+}, {
+  "pno12" : "256K2230C310",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 483000
+}, {
+  "pno12" : "23406R50C110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 603000
+}, {
+  "pno12" : "235H5G30D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 675000
+}, {
+  "pno12" : "256BMV70D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 829000
+}, {
+  "pno12" : "225L1170D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 422000
+}, {
+  "pno12" : "536EFRB0K110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 585800
+}, {
+  "pno12" : "225K6120D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 362000
+}, {
+  "pno12" : "536K9R50D110",
+  "market" : "SE",
+  "modelYear" : "2022",
+  "duration" : 36,
+  "mileage" : 10000,
+  "subsidy" : 5.0,
+  "secondSubsidy" : 0.0,
+  "msrp" : 418000
+} ]

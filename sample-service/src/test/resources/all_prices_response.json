@@ -1,0 +1,49 @@
+{
+  "message": "SUCCESS",
+  "vehiclePriceList": [
+    {
+      "pno12": {
+        "name": "256H5VC0D110",
+        "description": "XC40 Core B3p FWD AT MY23"
+      },
+      "modelYear": "2023",
+      "salesModel": "Subscription - flex",
+      "customerType": "B2C",
+      "price": "133",
+      "discount": "0.0%"
+    },
+    {
+      "pno12": {
+        "name": "256H5VC0D111",
+        "description": "XC40 Core B3p FWD AT MY23"
+      },
+      "modelYear": "2023",
+      "salesModel": "Subscription - flex",
+      "customerType": "B2C",
+      "price": "111",
+      "discount": "0.0%"
+    },
+    {
+      "pno12": {
+        "name": "256H5VC0D112",
+        "description": "XC40 Core B3p FWD AT MY23"
+      },
+      "modelYear": "2023",
+      "salesModel": "Subscription - flex",
+      "customerType": "B2C",
+      "price": "124",
+      "discount": "0.0%"
+    },
+    {
+      "pno12": {
+        "name": "256H5VC0D113",
+        "description": "XC40 Core B3p FWD AT MY23"
+      },
+      "modelYear": "2023",
+      "salesModel": "Subscription - flex",
+      "customerType": "B2C",
+      "price": "152",
+      "discount": "0.0%"
+    }
+  ]
+}

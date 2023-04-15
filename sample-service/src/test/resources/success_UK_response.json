@@ -1,0 +1,31 @@
+{
+  "message": "SUCCESS",
+  "residualValues": [
+    {
+      "id": "536K7170F110-20200628-10000",
+      "country": "SE",
+      "modelYear": "2024",
+      "pno12": "536K7170F110",
+      "carline": "XC40",
+      "fuel": "Petrol",
+      "lookUpTableName": "XC40 Core B3p FWD AT MY23",
+      "validFrom": 20200628,
+      "duration": 12,
+      "distance": 10000,
+      "residualValueFactors": [
+        {
+          "itemType": "accessory",
+          "factor": 33.5
+        },
+        {
+          "itemType": "baseCar",
+          "factor": 67.0
+        },
+        {
+          "itemType": "option",
+          "factor": 33.5
+        }
+      ]
+    }
+  ]
+}

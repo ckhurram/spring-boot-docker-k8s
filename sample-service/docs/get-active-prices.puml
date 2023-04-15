@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+actor PriceCreationAnalyst as analyst
+participant uploadPage as uploadPage
+participant PriceCreationService as pcs
+participant GPE as gpe
+database PriceCreation as pdb
+
+analyst -> uploadPage: opens the price-creation app in a browser
+uploadPage -> pcs: calls getAllPrices REST endpoint
+analyst -> uploadPage: clicks on browse button and browse to pno12 file
+analyst -> uploadPage: clicks on upload button to
+pcs -> pdb: get All prices
+pdb --> pcs: All vehicle objects
+pcs -> pcs: filter and forumlate json objects
+pcs --> webPage: SUCCESS with response json
+webPage --> analyst: All prices View
+
+
+
+@enduml

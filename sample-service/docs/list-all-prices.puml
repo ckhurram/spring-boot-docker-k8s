@@ -1,0 +1,20 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+actor PriceCreationAnalyst as analyst
+participant landingPage as webPage
+participant PriceCreationService as pcs
+database PriceCreation as pdb
+
+analyst -> webPage: opens the price-creation app in a browser
+webPage -> pcs: calls getAllPrices REST endpoint
+pcs -> pdb: get All prices
+pdb --> pcs: All vehicle objects
+pcs -> pcs: filter and forumlate json objects
+pcs --> webPage: SUCCESS with response json
+webPage --> analyst: All prices View
+
+
+
+@enduml

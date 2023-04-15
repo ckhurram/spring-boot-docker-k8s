@@ -1,0 +1,28 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+actor PriceCreationAnalyst as analyst
+participant priceTriggerPage as webPage
+participant PriceCreationService as pcs
+participant RVService as rvs
+participant GraphQL as gql
+database PriceCreation as pdb
+
+analyst -> webPage: enter PNO12, market, modelYear and discount
+webPage -> pcs: calls triggerPriceCreation(PNO12, market, modelYear, discount)
+pcs -> pcs: validate request
+pcs --> webPage: SUCCESS
+webPage --> analyst: SUCCESS
+pcs -> rvs: getRV data (pno12, mileage, duration, modelYear, salesDate)
+rvs --> pcs: RV percentage
+pcs -> gql: getCarKey(pno12, modelYear, market)
+gql --> pcs: CarKey JSON object
+pcs -> gql: CarByCarKey to get pricing data
+gql --> pcs: car MSRP
+pcs -> pcs: calculate price using formulas
+pcs -> pdb: Store price document for PNO12, market, modelYear as a key
+
+
+
+@enduml

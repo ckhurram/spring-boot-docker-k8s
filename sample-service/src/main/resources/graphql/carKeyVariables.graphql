@@ -1,0 +1,15 @@
+{
+  "market": "SE",
+  "modelYear": "2023",
+  "carType": "256",
+  "engine": "H5",
+  "salesVersion": "VC",
+  "body": "0",
+  "gearbox": "D",
+  "steering": "1",
+  "marketingCode": "10",
+  "priceConfigInput": {
+    "name": "default",
+    "locale": "sv-SE"
+  }
+}

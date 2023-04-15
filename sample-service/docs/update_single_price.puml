@@ -1,0 +1,22 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+actor PriceCreationAnalyst as analyst
+participant priceReviewPage as webPage
+participant PriceCreationService as pcs
+database PriceCreation as pdb
+
+analyst -> webPage: updates the price review form
+analyst -> webPage: clicks on the submit button
+webPage -> pcs: calls UpdatePrice REST endpoint
+pcs -> pdb: retrieves the price to update
+pdb --> pcs: price object
+pcs -> pcs: updates the price
+pcs -> pdb: store the updated price
+pcs --> webPage: SUCCESS with response json
+webPage --> analyst: Price Updated message
+
+
+
+@enduml
